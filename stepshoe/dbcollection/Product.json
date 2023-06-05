@@ -1,0 +1,101 @@
+[{
+  "_id": {
+    "$oid": "63e3bf2f10d7afb29fa0b808"
+  },
+  "id": 1829356044,
+  "name": "OZWEEGO SHOES",
+  "price": "1000",
+  "quantity": "10",
+  "image": "images/shoe1.png",
+  "description": "Deciding what kicks to wear. Usually a difficult decision. Until you own these adidas OZWEEGO Shoes. Level up your look and keep it legit thanks to the bold lines that throw it back to the glory days of the '90s and 2000s. Let's face it. If this were a style race, you're winning. And staying incredibly comfortable while doing so, because did we mention the triple-threat cushioning? An EVA midsole packed with Adiprene and Adiprene+ cushioning delivers total comfort."
+},{
+  "_id": {
+    "$oid": "63e3bf4e10d7afb29fa0b809"
+  },
+  "id": 1829065344,
+  "name": "Ultraboost Valentine 1.0",
+  "price": "1500",
+  "quantity": "15",
+  "image": "images/shoe2.png",
+  "description": "Celebrate love in all its forms with the Valentine's Day edit. Fresh new colorways invite you to share the love, while bold design details make it easy to spread feel-good vibes on V-Day and beyond.The reimagined Valentine's Day Ultraboost 1.0 Shoes are a stylish way to show yourself some love this year. This time the iconic silhouette gets a cupid-certified update thanks to the raised knitted hearts on the upper and the head-turning, marbled outsole. A discreet note on the sockliner helps you feel the love with every steps"
+},{
+  "_id": {
+    "$oid": "63e3bf6c10d7afb29fa0b80a"
+  },
+  "id": 1475356044,
+  "name": "Lite Racer 3.0 ",
+  "price": "3000",
+  "quantity": "10",
+  "image": "images/shoe3.png",
+  "description": "Walking is an essential part of daily life. Comfort should be too. Enjoy every step you take in these adidas shoes. Inspired by classic running shoes, they have plush Cloudfoam cushioning and a snug fit. Plus, 3-Stripes style. Do you even need any other shoes?"
+},{
+  "_id": {
+    "$oid": "63e3bf9d10d7afb29fa0b80b"
+  },
+  "id": 1829356776,
+  "name": "Ultra Wide 4DFWD ",
+  "price": "1800",
+  "quantity": "10",
+  "image": "images/shoe4.png",
+  "description": "Experience a smooth run with the Ultra 4DFWD running shoes. They combine the upper of our iconic Ultraboost with a 3D-printed adidas 4DFWD midsole that's innovated to compress forward, reducing braking forces and transforming the impact energy into forward motion. The result provides a smooth transition and unique gliding experience. An adidas PRIMEKNIT upper hugs the foot with targeted areas of support, while the Continental™ Rubber outsole provides extra grip in all weather conditions."
+},{
+  "_id": {
+    "$oid": "63e3c01d10d7afb29fa0b80c"
+  },
+  "id": 1829096776,
+  "name": "ZX 22 BOOST",
+  "price": "2500",
+  "quantity": "10",
+  "image": "images/shoe5.png",
+  "description": "Step out in confidence in these adidas ZX 22 BOOST Shoes. Easy wear and a futuristic vibe make these kicks an obvious choice for your daily rotation. The monochrome palette will give any outfit a polished look. Wear them to your favourite places and enjoy the plush step the JET BOOST drop-ins provide."
+},{
+  "_id": {
+    "$oid": "63e3c04010d7afb29fa0b80d"
+  },
+  "id": 1865096776,
+  "name": "Tennis Hue",
+  "price": "600",
+  "quantity": "10",
+  "image": "images/shoe6.png",
+  "description": "Pharrell Williams is an anomaly. There isn't one singular path he follows, though he does lead with confidence into unknown territories. There are many reasons for our ongoing collaboration, and these adidas Tennis Hu shoes showcase one of them — his perspective. The streamlined look stays true to its sporty roots with a flexible adidas Primeknit upper."
+},{
+  "_id": {
+    "$oid": "63e4179510d7afb29fa0b810"
+  },
+  "id": 1865096776,
+  "name": "TERREX VOYAGER 21 SLIP-ON HEAT.RDY TRAVEL SHOES",
+  "price": "1400",
+  "quantity": "10",
+  "image": "images/shoe7.png",
+  "description": "On the plane. On the beach. In the city. Embrace a spirit of adventure in these adidas travel shoes. Lightweight and packable, they fit easily into your duffel bag or backpack and slip right on when you're ready to explore. The trail-ready Traxion outsole grips tight no matter where your feet find you, and HEAT.RDY keeps feet cool as you move from the water to the sizzling streets."
+},{
+  "_id": {
+    "$oid": "63e417aa10d7afb29fa0b811"
+  },
+  "id": 1865096776,
+  "name": "Galaxy 6",
+  "price": "2200",
+  "quantity": "10",
+  "image": "images/shoe8.png",
+  "description": "Lace up and go. These adidas running shoes will keep you comfortable, however late your day runs. A great everyday shoe, they have a light and airy mesh upper to keep your feet cool and a Cloudfoam midsole for springiness. The rubber outsole is designed to stay firm across all surfaces, from wet grass to slow clay. Switch up your plans without changing your shoes."
+},{
+  "_id": {
+    "$oid": "63e417bf10d7afb29fa0b812"
+  },
+  "id": 1865096776,
+  "name": "CourtBeat Court Lifestyle",
+  "price": "1100",
+  "quantity": "10",
+  "image": "images/shoe9.png",
+  "description": "Taking inspiration from the rich adidas history in tennis footwear, these lifestyle shoes combine iconic vibes with modern style and fit. A soft, durable upper wraps your foot in snug comfort. The classic rubber cupsole cushions every step, while 3-Stripes and low-key adidas graphics on the tongue and heel tab provide the finishing touch."
+},{
+  "_id": {
+    "$oid": "63e417db10d7afb29fa0b813"
+  },
+  "id": 1865096776,
+  "name": "Continental 80",
+  "price": "950",
+  "quantity": "10",
+  "image": "images/shoe10.png",
+  "description": "Revel in the nostalgia. These adidas Continental 80 shoes capture all the retro vibes of the classic '80s leather trainers. The split rubber cupsole and swooping two-tone stripe nail the look. French terry lining completes the throwback feel."
+}]

@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "63e53847a41332767b0acdfb"
+  },
+  "id": 1245595739,
+  "userid": 172288791,
+  "productid": 1829096776,
+  "quantity": "2",
+  "totalprice": 5000,
+  "date": "09/02/2023"
+},{
+  "_id": {
+    "$oid": "63e53c71a41332767b0acdfc"
+  },
+  "id": 1485375598,
+  "userid": 172288791,
+  "productid": 1829356044,
+  "quantity": "1",
+  "totalprice": 1000,
+  "date": "09/02/2023"
+}]
